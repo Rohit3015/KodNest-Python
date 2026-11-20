@@ -32,30 +32,39 @@ In this track, I will learn: Python basics, working with data, building small pr
 
 ## What is Programming?
 
-Programming means writing a code that can be  understand by the computer
+Programming means writing instructions that a computer can understand and follow to solve a problem 
 
 ## What is a programming language?
 
+A programming language is a special language we use to write those instructions. Computers only understand binary, so programming languages give us a human-readable way to give instructions, which are then translated for the computer.
 
 ## What is Python?
 
+Python is a high-level, beginner-friendly programming language known for its simple, readable code
 
 ## What is syntax?
 
+Syntax is the set of rules for how code must be written in a language. If the syntax is wrong, the computer can’t understand the instruction and shows an error.
 
 ## Programming and Python
 
+Programming is the general skill of giving instructions to a computer. Python is one tool, among many languages, that I use to practice that skill.
 
 ## What remained the same?
 
+The core idea of programming: breaking a problem into small steps
+Logical thinking and problem solving
+Practice, patience, and learning from mistakes
 
 ## What changed?
 
+I write actual code and run it to see results
+I understand that small mistakes, like a missing quote, can cause errors
 
 ## My final understanding
 
-Programming helps me:
+Programming helps me: solve problems logically and tell a computer exactly what to do.
 
-Python helps me:
+Python helps me: write that logic in a simple, readable way and build applications in data, automation, and AI.
 
-Syntax tells me:
+Syntax tells me: the correct rules for writing code so the computer can understand it.
