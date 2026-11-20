@@ -27,3 +27,35 @@ Programming means: Giving computer clear, step-by-step instructions so it can co
 Python is: A simple, beginner-friendly, and powerful programming language used for web development, data analysis, automation, and AI.
 
 In this track, I will learn: Python basics, working with data, building small projects, and the foundations I need for AI and real-world applications.
+
+## Programming vs programming Language
+
+## What is Programming?
+
+Programming means writing a code that can be  understand by the computer
+
+## What is a programming language?
+
+
+## What is Python?
+
+
+## What is syntax?
+
+
+## Programming and Python
+
+
+## What remained the same?
+
+
+## What changed?
+
+
+## My final understanding
+
+Programming helps me:
+
+Python helps me:
+
+Syntax tells me:
